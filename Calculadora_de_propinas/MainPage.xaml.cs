@@ -9,6 +9,16 @@
             InitializeComponent();
         }
 
-     
+
+
+        private void OnButtonCalcular(object sender, EventArgs e)
+        {
+
+        }
+
+        private void OnButtonClear(object sender, EventArgs e)
+        {
+
+        }
     }
 }
