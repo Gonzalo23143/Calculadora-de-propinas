@@ -29,7 +29,7 @@
                     <Label
                         Grid.Row="0"
                         Grid.Column="0"
-                        Text="Importe de consumo"
+                        Text="Importedeconsumo"
                         VerticalOptions="Center"
                         HorizontalOptions="End"
                         x:Name="Importelabel"
@@ -139,7 +139,7 @@
                         Grid.Row="2"
                         Grid.Column="2"
                         HorizontalOptions="End"
-                        x:Name="Totalentry"/>
+                        x:Name="TotalLbl"/>
                     <Label
                         Text="importe total por persona"
                         Grid.Row="3"
